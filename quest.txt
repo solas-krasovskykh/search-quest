@@ -1,3 +1,11 @@
+ORDER OF THE HUNT:
+1. solve
+2. research
+3. encode-decode
+4. archive
+5. communicate
+
+
 Where can you travel the world without a single step, where whispers from the past are meticulously kept?
 
 Wo kann man die Welt bereisen, ohne einen einzigen Schritt zu tun, wo die Flüstern der Vergangenheit sorgfältig aufbewahrt werden?
