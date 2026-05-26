@@ -7,7 +7,7 @@ function checkPasswords()
     passwords.sort();
     if((passwords[0] == "supercrip" || passwords[0] == "supercrips") && (passwords[1] == "victim" || passwords[1] == "victims")) {
         resultBox.innerHTML = "Great job! Here's your next hint.";
-        resultBox.href = "https://i.postimg.cc/CL3qZW3V/back-to-the-beginning-harvest.jpg"
+        resultBox.href = "https://solas-krasovskykh.github.io/search-quest/media/photohint.jpg"
     }
     else {
         resultBox.innerHTML = "hmm, not quite there, try again"; 
