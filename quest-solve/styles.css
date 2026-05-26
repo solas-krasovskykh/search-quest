@@ -1,0 +1,52 @@
+body{
+    padding: 25px;
+    background-color:#5A59EA;
+}
+.title {
+    color: #EAA359;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    font-size: 64px;
+}
+.text {
+    color: #EAA359;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    font-size: 64px;
+}
+.container
+{
+    text-align: center;
+    overflow: hidden;
+}
+.input
+{
+    margin: auto;
+}
+button {
+    margin: auto;
+    font-size: 50px;
+    padding: 30px 30px;
+}
+/*div.trim {
+    max-height:400px;
+    max-width: 800px;
+    text-align: center;
+}*/
+img {
+    vertical-align: middle;
+    text-align: center;
+    /*margin: -170px -100px -100px -100px;*/
+}
+input[type=text] {
+    padding: 30px 30px;
+    box-sizing: border-box;
+    font-size: 50px;
+    margin: 45px 0;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
