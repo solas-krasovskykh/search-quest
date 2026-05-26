@@ -27,7 +27,7 @@ function checkPassword2()
     var password = document.getElementById("password2");
     if(password.value.toLowerCase() == "eden") {
         resultBox.innerHTML = "Here's your map.";
-        resultBox.href = "https://drive..."
+        resultBox.href = "https://solas-krasovskykh.github.io/search-quest/media/back%20to%20the%20beginning%20-%20harvest.jpg"
     }
     else {
         resultBox.innerHTML = "hmm, not quite there, try again"; 
