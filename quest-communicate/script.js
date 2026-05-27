@@ -12,7 +12,7 @@ function checkPassword()
     var resultBox = document.getElementById("hint");
     var password = document.getElementById("password");
     if(password.value.toLowerCase() == "library") {
-        resultBox.innerHTML="*title initials*:*author initials*:*page*:*row*:*word*? (example: ML:CM:214:8:2?) hint: ↑";
+        resultBox.innerHTML="TCEoL:DC:304:1:2? hint: ↑";
     }
     else {
         resultBox.innerHTML="hmm, not quite there, try again"; 
@@ -25,11 +25,11 @@ function checkPassword2()
 {
     var resultBox = document.getElementById("answer");
     var password = document.getElementById("password2");
-    if(password.value.toLowerCase() == "eden") {
+    if(password.value.toLowerCase() == "problem") {
         resultBox.innerHTML = "Here's your map.";
-        resultBox.href = "https://solas-krasovskykh.github.io/search-quest/media/back%20to%20the%20beginning%20-%20harvest.jpg"
+        resultBox.href = "https://solas-krasovskykh.github.io/search-quest/media/back%20to%20the%20beginning%20-%20harvest2.jpg"
     }
     else {
-        resultBox.innerHTML = "hmm, not quite there, try again"; 
+        resultBox.innerHTML = "is there a problem? try to consult some literature"; 
     }
  }
